@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pertemuan1</string>
+    <string name="sahabat_pnj">Sahabat PNJ</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="pilihan_a">pilihan a</string>
+    <string name="pilihan_b">pilihan_b</string>
+    <string name="pilihan_c">pilihan_c</string>
+    <string name="submit">Submit</string>
+    <string name="button_1">button 1</string>
+    <string name="button_2">button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="nama_saya_alvin">Nama saya Alvin</string>
+</resources>
